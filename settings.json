@@ -8,15 +8,17 @@
   "git.openRepositoryInParentFolders": "never",
 
   //user settings
-  "workbench.colorTheme": "Ayu Dark",
-  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Ayu Mirage",
+  "workbench.iconTheme": "gruvbox-material-icon-theme",
   "workbench.startupEditor": "none",
   "breadcrumbs.enabled": false,
   "workbench.sideBar.location": "right",
   "workbench.tree.renderIndentGuides": "none",
+  "window.customTitleBarVisibility": "never",
+
   "workbench.tree.indent": 16,
   "explorer.compactFolders": false,
-  "window.customTitleBarVisibility": "never",
+  "window.customeTitleBarVisibility": "never",
   "editor.fontLigatures": true,
   "editor.fontFamily": "JetBrains Mono",
   "editor.lineHeight": 2,
@@ -82,5 +84,6 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorBlinking": false,
   "terminal.integrated.enableVisualBell": false,
-  "scm.diffDecorations": "gutter"
+  "scm.diffDecorations": "gutter",
+  "workbench.activityBar.location": "top"
 }
