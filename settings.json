@@ -3,6 +3,7 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "explorer.confirmDragAndDrop": false,
   "extensions.ignoreRecommendations": true,
+  "extensions.showRecommendationsOnlyOnDemand": true,
   "explorer.confirmDelete": false,
   "json.schemaDownload.enable": false,
   "git.openRepositoryInParentFolders": "never",
