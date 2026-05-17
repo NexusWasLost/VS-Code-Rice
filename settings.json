@@ -108,6 +108,7 @@
   "chat.contextUsage.enabled": false,
   "chat.disableAIFeatures": true, //remove the chat with agent feature
   "workbench.browser.openLocalhostLinks": false,
+  // "search.searchOnType": false
   //Minimize telemetry
   "telemetry.telemetryLevel": "off",
   "workbench.enableExperiments": false,
