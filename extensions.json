@@ -2,6 +2,8 @@
     "Ext": [
         "Ayu",
         "Gruvbox Material Icon Theme",
-        "vscode-pets"
+        "One Dark Pro",
+        "C/C++ intellisense",
+        "Live Server"
     ]
 }
